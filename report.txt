@@ -1,0 +1,30 @@
+BUSINESS DATA ANALYSIS REPORT
+=============================================
+
+Total sales: ₹954,500.00
+Total quantity sold: 125
+Average sale value: ₹53,027.78
+
+PRODUCT-WISE SALES
+------------------------------
+Laptop: ₹440,000.00
+Mobile: ₹300,000.00
+Monitor: ₹84,000.00
+Headphones: ₹60,000.00
+Mouse: ₹36,000.00
+Keyboard: ₹34,500.00
+
+CATEGORY-WISE SALES
+------------------------------
+Electronics: ₹824,000.00
+Accessories: ₹130,500.00
+
+REGION-WISE SALES
+------------------------------
+West: ₹412,000.00
+North: ₹301,000.00
+South: ₹162,000.00
+East: ₹79,500.00
+
+Best-selling product: Laptop
+Best-performing region: West
